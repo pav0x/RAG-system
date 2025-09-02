@@ -1,0 +1,11 @@
+# Python кэш и байт-код
+__pycache__/
+*.pyc
+
+# Файлы с секретами
+.env
+api.py
+client_secret_*.json
+
+# Большие локальные базы или данные
+chroma_db/
